@@ -83,21 +83,21 @@ Définition : ReadMe.md
 
 <h2>Partie 4: Créer un fichier</h2> 
 
-Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ? 
+- Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ? 
 
-Pour donner un logue de ton projects et aussi trouver ou des nouveau “bugs” son creer 
+   - Pour donner un logue de ton projects et aussi trouver ou des nouveau “bugs” son creer 
 
-Comment GitHub peut-il vous aider à collaborer sur des projets de codage ? 
+- Comment GitHub peut-il vous aider à collaborer sur des projets de codage ? 
 
-Par meilleur ameliorer le tien et celle des autre programme 
+   - Par meilleur ameliorer le tien et celle des autre programme 
 
-Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
+- Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
-Mettre le entier de ce document dans ton fichier  
+   - Mettre le entier de ce document dans ton fichier  
 
-Explorer ce que c’est un fichier .md  
+   - Explorer ce que c’est un fichier .md  
 
-Changer le format du document en utilisant le propre markdown 
+   - Changer le format du document en utilisant le propre markdown 
 
  
 
